@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-master/basic-master.iml" filepath="$PROJECT_DIR$/basic-master/basic-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterms/design-patterms.iml" filepath="$PROJECT_DIR$/design-patterms/design-patterms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-demo.iml" filepath="$PROJECT_DIR$/eureka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-a-api/service-a-api.iml" filepath="$PROJECT_DIR$/service-a-api/service-a-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceA/serviceA.iml" filepath="$PROJECT_DIR$/serviceA/serviceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceB/serviceB.iml" filepath="$PROJECT_DIR$/serviceB/serviceB.iml" />
+    </modules>
+  </component>
+</project>
